@@ -1,0 +1,25 @@
+.footerLinkColor{
+    color: #7a7a7a;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+.footerLinkColor:hover{
+    color: red;
+    
+ 
+}
+.dot{
+    height: 10px;
+    width: 10px;
+    background-color: #7a7a7a;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+
+.footerText{
+    color: #7a7a7a;
+}

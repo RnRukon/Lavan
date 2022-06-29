@@ -1,0 +1,33 @@
+.topHeaderContainer{
+    background-image: url('https://kayapati.com/demo/lavan/wp-content/themes/lavan/images/header-bg.jpg');
+}
+
+.loginLegButton{
+    border-style: none;
+    color: aliceblue;
+    background-color: rgb(131, 129, 129);
+    font-size: small;
+    padding: 5px 20px;
+}
+
+
+.headerBanner1{
+    background-image: url('https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/02/Photoshop-Replace-Background-Featured.jpg?q=50&fit=contain&w=1500&h=750&dpr=1.5');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    height: 600px;
+    display: flex;
+    align-items: center;
+
+}
+.fineOutNowButtonHeader{
+    border-style: none;
+    padding: 10px 20px;
+    background-color: rgb(230, 1, 1);
+    color: aliceblue;
+    font-weight: bold;
+}
+.fineOutNowButtonHeader:hover{
+    background-color: rgb(255, 39, 39);
+}

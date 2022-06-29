@@ -1,0 +1,24 @@
+.fineOutContainer{
+    background-color: #db0008; padding: 100px 0; 
+}
+
+.fineOutBtn{
+    padding: 10px 20px;
+    background-color: #db0008;
+     color: white;
+     border: 2px solid white; 
+     font-weight: bold;
+     margin-top: 50px;
+     border-radius: 5px;
+    
+    
+  }
+
+  .fineOutContainer:hover{
+    background-color: #9c00e5;
+  }
+  .fineOutBtn:hover{
+      background-color: white;
+      color: black;
+    
+  }
