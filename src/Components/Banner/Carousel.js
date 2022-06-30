@@ -9,7 +9,7 @@ const Carousel = () => {
             <div className='topHeaderContainer'>
                 <div className=' text-white d-flex justify-content-between py-5   container'>
                     <div>
-                        <img src="http://kayapati.com/demos/lavan/wp-content/uploads/sites/157/2018/05/logo.png" alt="" />
+                        <img className=' img-fluid' src="http://kayapati.com/demos/lavan/wp-content/uploads/sites/157/2018/05/logo.png" alt="" />
                     </div>
                     <div className='text-end'>
                         <h4>
